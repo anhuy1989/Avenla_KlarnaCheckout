@@ -1,0 +1,9 @@
+app/code/community/Avenla/KlarnaCheckout    app/code/community/Avenla/KlarnaCheckout
+app/design/adminhtml/default/default/layout/KCO.xml     app/design/adminhtml/default/default/layout/KCO.xml
+app/design/adminhtml/default/default/template/KCO   app/design/adminhtml/default/default/template/KCO
+app/design/frontend/base/default/layout/KCO.xml     app/design/frontend/base/default/layout/KCO.xml
+app/design/frontend/base/default/template/KCO   app/design/frontend/base/default/template/KCO
+app/etc/modules/Avenla_KlarnaCheckout.xml   app/etc/modules/Avenla_KlarnaCheckout.xml
+app/locale/sv_SE/Avenla_KlarnaCheckout.csv  app/locale/sv_SE/Avenla_KlarnaCheckout.csv
+lib/KlarnaCheckout  lib/KlarnaCheckout
+skin/frontend/base/default/KCO  skin/frontend/base/default/KCO
