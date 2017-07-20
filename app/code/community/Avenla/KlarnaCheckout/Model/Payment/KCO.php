@@ -204,7 +204,7 @@ class Avenla_KlarnaCheckout_Model_Payment_KCO extends Avenla_KlarnaCheckout_Mode
 
 		if(Mage::registry(Avenla_KlarnaCheckout_Model_Payment_Abstract::REGISTRY_KEY_TRANSACTION) == null){
 			foreach ($order->getInvoiceCollection() as $invoice) {
-				if($invoice->getId() == null)
+				if($invoice->getId() != null)
 		    		$inv = $invoice;
 			}
 
